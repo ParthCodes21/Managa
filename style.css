@@ -215,3 +215,7 @@ header * {
   position: relative;
   z-index: 1;
 }
+}
+.ending h4 {
+  font-size: 60px;
+}
